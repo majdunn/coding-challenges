@@ -1,0 +1,1 @@
+A variety of coding challenges, mostly completed using javascript. Each directory is a different challenge.
